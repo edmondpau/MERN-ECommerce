@@ -6,25 +6,23 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import ProductList from './components/ProductList';
 import Details from './components/Details';
-import Cart from './components/Cart';
+import Cart from './components/Cart/Cart';
 import Default from './components/Default';
-
+import Modal from './components/Modal';
 
 function App() {
   return (
     <React.Fragment>
       <Navbar />
-      <BrowserRouter>
       <Switch>
-        <Route exact path = '/' component={ProductList} />
-        <Route path = '/details' component = {Details} />
-        <Route path = '/cart' component = {Cart} />
-        <Route component = {Default} />
+        <Route exact path="/" component={ProductList} />
+        <Route path="/details" component={Details} />
+        <Route path="/cart" component={Cart} />
+        <Route component={Default} />
       </Switch>
-      </BrowserRouter>
+      <Modal />
     </React.Fragment>
   );
 }
-
 
 export default App;
