@@ -10,6 +10,7 @@ export default class Cart extends Component {
   render() {
     return (
       <section>
+        {/* waiting for git */}
         <ProductConsumer>
           {(value) => {
             const { cart } = value;
