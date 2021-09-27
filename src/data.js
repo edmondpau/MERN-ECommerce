@@ -99,55 +99,56 @@ export const storeProducts = [
     inCart: false,
     count: 0,
     total: 0
-  },
-  {
-    id: 9,
-    title: "Apple Watch Series 6",
-    img: "img/product-9.png",
-    price: 399,
-    company: "APPLE",
-    info:
-      "Apple Watch Series 6 ... your wrist. Measure your blood oxygen level with a revolutionary sensor and app. Take an ECG anytime, anywhere.",
-    inCart: false,
-    count: 0,
-    total: 0
-  },
-  {
-    id: 10,
-    title: "Apple Watch Series 3",
-    img: "img/product-10.png",
-    price: 199,
-    company: "APPLE",
-    info:
-      "Apple Watch Series 3 ... your wrist. Measure your blood oxygen level with a revolutionary sensor and app. Take an ECG anytime, anywhere.",
-    inCart: false,
-    count: 0,
-    total: 0
-  },
-  {
-    id: 11,
-    title: "Apple Watch Series 3",
-    img: "img/product-11.png",
-    price: 99,
-    company: "APPLE",
-    info:
-      "AirPods deliver an unparalleled listening experience with all your devices. Every model connects effortlessly and packs rich, high-quality sound.",
-    inCart: false,
-    count: 0,
-    total: 0
-  },
-  {
-    id: 12,
-    title: "AirTag",
-    img: "img/product-12.png",
-    price: 99,
-    company: "APPLE",
-    info:
-      "AirTag is designed to discourage unwanted tracking. If someone else's AirTag finds its way into your stuff, your iPhone will notice it's traveling with you.",
-    inCart: false,
-    count: 0,
-    total: 0
   }
+  // ,
+  // {
+  //   id: 9,
+  //   title: "Apple Watch Series 6",
+  //   img: "img/product-9.png",
+  //   price: 399,
+  //   company: "APPLE",
+  //   info:
+  //     "Apple Watch Series 6 ... your wrist. Measure your blood oxygen level with a revolutionary sensor and app. Take an ECG anytime, anywhere.",
+  //   inCart: false,
+  //   count: 0,
+  //   total: 0
+  // },
+  // {
+  //   id: 10,
+  //   title: "Apple Watch Series 3",
+  //   img: "img/product-10.png",
+  //   price: 199,
+  //   company: "APPLE",
+  //   info:
+  //     "Apple Watch Series 3 ... your wrist. Measure your blood oxygen level with a revolutionary sensor and app. Take an ECG anytime, anywhere.",
+  //   inCart: false,
+  //   count: 0,
+  //   total: 0
+  // },
+  // {
+  //   id: 11,
+  //   title: "Apple Watch Series 3",
+  //   img: "img/product-11.png",
+  //   price: 99,
+  //   company: "APPLE",
+  //   info:
+  //     "AirPods deliver an unparalleled listening experience with all your devices. Every model connects effortlessly and packs rich, high-quality sound.",
+  //   inCart: false,
+  //   count: 0,
+  //   total: 0
+  // },
+  // {
+  //   id: 12,
+  //   title: "AirTag",
+  //   img: "img/product-12.png",
+  //   price: 99,
+  //   company: "APPLE",
+  //   info:
+  //     "AirTag is designed to discourage unwanted tracking. If someone else's AirTag finds its way into your stuff, your iPhone will notice it's traveling with you.",
+  //   inCart: false,
+  //   count: 0,
+  //   total: 0
+  // }
 ];
 
 export const detailProduct = {
