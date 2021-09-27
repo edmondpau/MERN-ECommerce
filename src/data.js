@@ -6,96 +6,144 @@ https://www.iconfinder.com/Makoto_msk */
 export const storeProducts = [
   {
     id: 1,
-    title: "Google Pixel - Black",
+    title: "iPhone 13 Pro",
     img: "img/product-1.png",
-    price: 10,
-    company: "GOOGLE",
+    price: 999,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "iPhone 13 Pro and 13 Pro Max. Huge camera upgrades. New OLED display with ProMotion. Fastest smartphone chip ever. Breakthrough battery life.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 2,
-    title: "Samsung S7",
+    title: "iPhone 13",
     img: "img/product-2.png",
-    price: 16,
-    company: "SAMSUNG",
+    price: 699,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Apple's iPhone 13 features a ceramic shield front, Super Retina XDR display with True Tone and an A15 Bionic chip.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 3,
-    title: "HTC 10 - Black",
+    title: "iPhone 12",
     img: "img/product-3.png",
-    price: 8,
-    company: "htc",
+    price: 599,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The iPhone 12 features a 6.1-inch (15 cm) display with Super Retina XDR OLED technology at a resolution of 2532×1170 pixels and a pixel density of about 460 ppi.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 4,
-    title: "HTC 10 - White",
+    title: "iPhone SE",
     img: "img/product-4.png",
-    price: 18,
-    company: "htc",
+    price: 399,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "iPhone SE features the best single-camera system ever in an iPhone with a 12-megapixel f/1.8 aperture Wide camera, and uses the image signal",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 5,
-    title: "HTC Desire 626s",
+    title: "MacBook Air",
     img: "img/product-5.png",
-    price: 24,
-    company: "htc",
+    price: 999,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Power. It's in the Air. ... Our thinnest, lightest notebook, completely transformed by the Apple M1 chip. CPU speeds up to 3.5x faster. GPU speeds up to 5x faster.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 6,
-    title: "Vintage Iphone",
+    title: "MacBook Pro 13",
     img: "img/product-6.png",
-    price: 17,
-    company: "apple",
+    price: 1299,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "13.3-inch Retina display · Apple M1 chip. Also available with. Intel Core i5 or i7 processor · Up to. 16GB memory · Up to 2TB storage",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 7,
-    title: "Iphone 7",
+    title: "iPad Pro",
     img: "img/product-7.png",
-    price: 30,
-    company: "apple",
+    price: 799,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "With the power of Apple Pencil, iPad Pro transforms into an immersive drawing canvas and the world's best note‑taking device.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 8,
-    title: "Smashed Iphone",
+    title: "iMac 24",
     img: "img/product-8.png",
-    price: 2,
-    company: "apple",
+    price: 1299,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "iMac — beautiful, intuitive all-in-one desktops with incredible processors, a Retina display, and the world's most advanced desktop operating system.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 9,
+    title: "Apple Watch Series 6",
+    img: "img/product-9.png",
+    price: 399,
+    company: "APPLE",
+    info:
+      "Apple Watch Series 6 ... your wrist. Measure your blood oxygen level with a revolutionary sensor and app. Take an ECG anytime, anywhere.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 10,
+    title: "Apple Watch Series 3",
+    img: "img/product-10.png",
+    price: 199,
+    company: "APPLE",
+    info:
+      "Apple Watch Series 3 ... your wrist. Measure your blood oxygen level with a revolutionary sensor and app. Take an ECG anytime, anywhere.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 11,
+    title: "Apple Watch Series 3",
+    img: "img/product-11.png",
+    price: 99,
+    company: "APPLE",
+    info:
+      "AirPods deliver an unparalleled listening experience with all your devices. Every model connects effortlessly and packs rich, high-quality sound.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 12,
+    title: "AirTag",
+    img: "img/product-12.png",
+    price: 99,
+    company: "APPLE",
+    info:
+      "AirTag is designed to discourage unwanted tracking. If someone else's AirTag finds its way into your stuff, your iPhone will notice it's traveling with you.",
     inCart: false,
     count: 0,
     total: 0
@@ -104,12 +152,12 @@ export const storeProducts = [
 
 export const detailProduct = {
   id: 1,
-  title: "Google Pixel - Black",
+  title: "iPhone 13 Pro",
   img: "img/product-1.png",
-  price: 10,
-  company: "google",
+  price: 999,
+  company: "APPLE",
   info:
-    "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "iPhone 13 Pro and 13 Pro Max. Huge camera upgrades. New OLED display with ProMotion. Fastest smartphone chip ever. Breakthrough battery life.",
   inCart: false,
   count: 0,
   total: 0
